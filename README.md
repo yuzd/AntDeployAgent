@@ -1,10 +1,12 @@
 # AntDeployAgent
 AntDeploy Agent In Windows Server
 
-# how to install 
+# (如果安装Windows服务器上agent服务)How to install 
 
 https://github.com/yuzd/AntDeployAgent/issues/1
 
+# TODO 
+-  排除文件优化,支持选择
 
 # DEMO
 
