@@ -5,8 +5,12 @@ AntDeploy Agent In Windows Server
 
 https://github.com/yuzd/AntDeployAgent/issues/1
 
+# 脑图
+
+ ![image](https://images4.c-ctrip.com/target/zb0r11000000ra2dzE339.jpg)
+ 
 # TODO 
--  排除文件优化,支持选择
+-  增量发布
 
 # DEMO
 
