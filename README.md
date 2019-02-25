@@ -1,6 +1,12 @@
 # AntDeployAgent
 AntDeploy Agent In Windows Server
 
+# 功能
+* 支持docker一键部署(支持netcore)
+* 支持iis一键部署(支持netcore和framework)(支持增量发布)
+* 支持windows服务一键部署(支持netcore和framework)(支持增量发布)
+
+
 # (如果安装Windows服务器上agent服务)How to install 
 
 https://github.com/yuzd/AntDeployAgent/issues/1
@@ -9,8 +15,6 @@ https://github.com/yuzd/AntDeployAgent/issues/1
 
  ![image](https://images4.c-ctrip.com/target/zb0r11000000ra2dzE339.jpg)
  
-# TODO 
--  增量发布
 
 # DEMO
 
