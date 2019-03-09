@@ -12,6 +12,10 @@ https://marketplace.visualstudio.com/items?itemName=nainaigu.AntDeploy
 
 https://github.com/yuzd/AntDeployAgent/issues/1
 
+# 为什么发布到windows服务器要装agent?
+
+https://github.com/yuzd/AntDeployAgent/issues/7
+
 # 脑图
 
  ![image](https://images4.c-ctrip.com/target/zb0r11000000ra2dzE339.jpg)
