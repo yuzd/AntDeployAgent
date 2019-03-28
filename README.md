@@ -38,8 +38,11 @@ https://github.com/yuzd/AntDeployAgent/issues/3
 【demo演示】一键发布WindowsService项目(netframwork版本)
 https://github.com/yuzd/AntDeployAgent/issues/4
 
-【demo演示】一键发布WindowsService项目(netcore)
+【demo演示】一键发布WindowsService项目(netcore web项目)
 https://github.com/yuzd/AntDeployAgent/issues/5
+
+【demo演示】一键发布WindowsService项目(netcore 普通项目)
+https://github.com/yuzd/AntDeployAgent/issues/17
 
 # 其他
 如果您对这款vs插件有任何意见和建议都欢迎提Issue
